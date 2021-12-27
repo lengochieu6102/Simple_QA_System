@@ -3,7 +3,7 @@
 **Student Name**: Lê Ngọc Hiếu\
 **Student ID**: 1812164
 ## Đề bài - Topic
-Xây dựng hệ thống hỏi đáp đơn giản về các chuyến tàu hỏa liên tỉnh bằng Quan hệ văn phạm.\
+Xây dựng hệ thống hỏi đáp đơn giản về các chuyến tàu hỏa liên tỉnh bằng Quan hệ văn phạm.
 
 Build simple Vietnamese Question-Answering System for retrieving information of inter-province train system by using Relational Grammar.
 
