@@ -72,4 +72,4 @@ Ví dụ
 $ python main.py --input-file input_2.txt
 ```
 ## Link github:
-https://github.com/lengochieu6102/NLP_Simple_QA_System.git
+https://github.com/lengochieu6102/Simple_QA_System.git
