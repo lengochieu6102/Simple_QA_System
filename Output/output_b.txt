@@ -1,0 +1,8 @@
+wh-train (Tàu hỏa,nào)
+nsubj (đến,Tàu hỏa)
+root (ROOT,đến)
+amod (Huế,thành phố)
+dobj (đến,Huế)
+at-time (19:00HR,lúc)
+pobj (đến,19:00HR)
+punch (đến,?)

@@ -1,0 +1,1 @@
+(Tàu hỏa,N) (nào,DET) (đến,V) (thành phố,ADJ) (Huế,CITY-NAME) (lúc,P) (19:00HR,PRO_TIME) (?,PUNCH)
